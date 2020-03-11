@@ -3,7 +3,8 @@
 ### ROMANIA
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/k4TQOHi.png" group-title="ROMANIA",Digi 24
-http://edge71.rcs-rds.ro/digi24edge/smil:digi24.smil/chunklist_w198586468_b2830400_sleng.m3u8
+https://edge213.rcs-rds.ro/V4-6853833-e31ca1f5b4ccea202850e754ea0f91bc-1194873206-0-1583963754-2-digi24/digi24/digi24-abr.m3u8?is=4&ns=digi24&pe=site&s=site&sn=digi24.ro&p=browser&pd=mac&quality=hq&t=00000000000000000000000000000000&t4=V4-6853833-e31ca1f5b4ccea202850e754ea0f91bc-1194873206-0-1583963754-2-digi24
+### http://edge71.rcs-rds.ro/digi24edge/smil:digi24.smil/chunklist_w198586468_b2830400_sleng.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/FWM790Y.png" group-title="ROMANIA",Pro TV News
 http://stream1.protv.ro/news/stream:1.stream/chunklist_w1582750279.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Ae1Klb2.png" group-title="ROMANIA",Realitatea TV
